@@ -1,1 +1,13 @@
-
+{
+    "response": [
+        {
+            "datetime": "1749554711",
+            "filename": "Bliss-v18.6-cupid-UNOFFICIAL-vanilla-20250609.zip",
+            "id": "05fc110a52e881ac29ecd3228e5a505a13b8af356a5e6d10b98a476b15d135d5",
+            "romtype": "UNOFFICIAL",
+            "size": "1955005716",
+            "url": "https://github.com/n0201/ota_provider/releases/download/1749554128/Bliss-v18.6-cupid-UNOFFICIAL-vanilla-20250609.zip",
+            "version": "18.5"
+        }
+    ]
+}
